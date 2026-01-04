@@ -889,7 +889,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           title = ""
           subtitle = "Junior Machine Learning Engineer"
           typeit = true
-          social = trues
+          social = true
           disclaimer = ""
       [languages.en.params.social]
         GitHub = "xxxx"
