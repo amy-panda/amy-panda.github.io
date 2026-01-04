@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Configuration on LoveIt</title>
+    <title>Configuration on Amy Yang</title>
     <link>http://localhost:1313/tags/configuration/</link>
-    <description>Recent content in Configuration on LoveIt</description>
+    <description>Recent content in Configuration on Amy Yang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 21:29:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 16:11:22 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Documentation - Basics</title>
