@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/amyyang/Portfolio/amyyang.com",
+	"sourceRoot": "/Users/amyyang/Portfolio/amy-panda.github.io",
 	"sources": [
 		"themes/loveit/assets/css/style.scss",
 		"themes/loveit/assets/lib/modern-normalize/modern-normalize.css",

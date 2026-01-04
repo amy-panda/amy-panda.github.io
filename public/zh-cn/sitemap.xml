@@ -191,15 +191,6 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/zh-cn/tags/emoji/"
                     /></url><url>
-            <loc>http://localhost:1313/zh-cn/about/</loc><lastmod>2026-01-04T16:11:22&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/zh-cn/about/"
-                    /></url><url>
             <loc>http://localhost:1313/zh-cn/tags/installation/</loc><lastmod>2026-01-04T16:11:22&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
