@@ -17,15 +17,15 @@ math:
 
 ---
 
-## 📝 About This Blog
+## 📝 About Blog
 
-This blog is my space to document my learning journey of AI tools and areas that I'm keen to learn more including Recommendation Systems, Large Language Models and Reinforcement Learning. Here, I'll I share my learnings, challenges, and key insights throughout the journey.
+This blog is the space to document my learning journey of AI tools and areas that I'm keen to explore further including Recommendation Systems, Large Language Models and Reinforcement Learning. Here, I'll I share my learnings, challenges, and key insights throughout the journey.
 
 ---
 
 ## 🙎🏻‍♀️ About Me
 
-I'm a junior machine learning engineer currently working on recommendation systems in the travel industry. I love learning new things and sharing knowledge with the community.
+I'm a junior machine learning engineer based in Sydney, currently working on recommendation systems in the travel industry. I love learning new things and sharing knowledge with the community.
 
 I've been incredibly fortunate to learn so much from the open-source community and those who generously share their expertise. This blog is my way of giving back — even if it's just a small contribution, I hope something here might help someone on their own learning journey.
 
